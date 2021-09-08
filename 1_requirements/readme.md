@@ -62,4 +62,10 @@ In labs
 ## How:
 Manually calculating the resistance of many resistor by band method continously leads to error, tierdness and waste of time
 
+# Detail requirements
+## High Level Requirements:
+![Screenshot (523)](https://user-images.githubusercontent.com/48181111/132516799-faf05efa-8825-4cf3-851c-c371d9143a19.png)
+## Low Level Requirements:
+![Screenshot (525)](https://user-images.githubusercontent.com/48181111/132517091-d5d2a717-2d71-47eb-858c-00e8b135610a.png)
+
 [Readme.md](https://github.com/shubhamRmx/stepin-resistor-color-code-detection/files/7128632/Readme.md)
